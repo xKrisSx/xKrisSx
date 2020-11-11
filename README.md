@@ -1,6 +1,6 @@
 # **Hi! 👋**
 
-* I'm Kris, an amateur java, bukkit API and JDA developer.
+* I'm Kris, self-learning amateur java developer.
 
 #
 
