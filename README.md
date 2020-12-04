@@ -8,4 +8,4 @@
 
 # Tools:
 
-<img width="32px" src="https://iconscout.com/icon/intellij-idea">
+<img width="32px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png">
