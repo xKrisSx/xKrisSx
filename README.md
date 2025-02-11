@@ -1,10 +1,10 @@
 # **Hi! 👋**
 
-* I'm Kris, beginner webdeveloper & self-learning amateur java developer.
+* I'm Kris, beginner webdeveloper, junior java developer.
 
 #
 
-**Discord:** `Kris#1842`
+**Discord:** `not.kris`
 
 # Tools:
 
